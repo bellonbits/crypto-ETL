@@ -19,7 +19,7 @@ A Python-based ETL (Extract, Transform, Load) solution for cryptocurrency price 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/crypto-ETL.git
+git clone (https://github.com/bellonbits/crypto-ETL).git
 cd crypto-ETL
 
 # Create and activate virtual environment
